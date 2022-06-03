@@ -1,0 +1,25 @@
+{
+  "name": "hc-js-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "axios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdouglasmorais/hc-js-functions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrdouglasmorais/hc-js-functions/issues"
+  },
+  "homepage": "https://github.com/mrdouglasmorais/hc-js-functions#readme",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^3.2.5"
+  }
+}
